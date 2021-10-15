@@ -20,11 +20,11 @@ img {
 }
 
 .left {
-  flex-grow: 1;
+  flex: 1;
   margin: 10px;
 }
 .right {
-  flex-grow: 2;
+  flex: 2;
   margin: 10px;
 }
 .center-content {
