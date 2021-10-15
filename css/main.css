@@ -2,14 +2,6 @@ body {
   margin: 0;
 }
 
-h1 {
-  color: darkblue;
-}
-
-img {
-  border-radius: 75px;
-}
-
 .container1 {
   display: flex;
 }
