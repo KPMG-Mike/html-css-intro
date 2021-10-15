@@ -1,3 +1,44 @@
 h1 {
   color: darkblue;
 }
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.container1 {
+  display: flex;
+}
+
+.container2 {
+  display: flex;
+  background-color: lightgray;
+}
+
+.left {
+  flex-grow: 1;
+}
+.right {
+  flex-grow: 2;
+}
+.center-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+li {
+  padding-left: 20px;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: darkblue;
+  color: white;
+  text-align: center;
+}
