@@ -17,3 +17,13 @@ button {
   padding-right: 15px;
   cursor: pointer;
 }
+
+a {
+  background-color: darkblue;
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-decoration: none;
+}
