@@ -6,24 +6,30 @@ body {
   display: flex;
 }
 
-.container2 {
-  display: flex;
-  background-color: lightgray;
-}
-
 .left {
   flex: 1;
   margin: 10px;
 }
+
 .right {
   flex: 2;
   margin: 10px;
 }
+
 .center-content {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
+
+.container2 {
+  display: flex;
+  background-color: lightgray;
+}
+
+.container2 div {
+  width: 50%;
 }
 
 li {
