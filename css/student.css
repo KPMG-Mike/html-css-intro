@@ -19,6 +19,7 @@ button {
 }
 
 a {
+  border-radius: 25px;
   background-color: darkblue;
   color: white;
   padding-top: 5px;
