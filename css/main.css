@@ -44,6 +44,16 @@ li {
   padding-left: 20px;
 }
 
+.3tiles {
+}
+
+.tile {
+  float: left;
+  width: 33.33%;
+  height: 200px;
+  background-color: blue;
+}
+
 footer {
   position: fixed;
   left: 0;
