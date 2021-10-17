@@ -53,14 +53,15 @@ li {
 }
 
 .tiles-wrapper {
-  padding: 0 30px;
+  display: flex;
+  flex-direction: row;
 }
 
 .tile {
-  float: left;
-  width: 33.33%;
-  height: 200px;
+  flex: 33%;
   background-color: blue;
+  margin: 10px;
+  border-radius: 15px;
 }
 
 footer {
