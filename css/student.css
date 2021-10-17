@@ -11,4 +11,8 @@ button {
   border-radius: 25px;
   background-color: darkblue;
   color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
