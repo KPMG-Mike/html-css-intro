@@ -47,6 +47,11 @@ body {
   height: 300px;
 }
 
+
+
+
+
+
 .image-card {
   position: relative;
   overflow: hidden;
@@ -55,6 +60,7 @@ body {
   background-color: gray;
   border-radius: 16px;
   padding: 4px;
+}
   
   .tile-image {
     border-radius: 16px;
@@ -73,11 +79,11 @@ body {
     border-radius: 40px;
     color: gray;
     background-color: gray;
-    
-    i {
+  }
+  
+  i {
       font-size: 24px;
     }
-  }
   
   .image-card-label {
     position: absolute;
@@ -89,16 +95,15 @@ body {
     border-top-right-radius: 16px;
     border-bottom-right-radius: 16px;
     opacity: 0.8;
-    
-    .image-card-label-title {
+  }
+  
+  .image-card-label-title {
       color: black;
       font-size: 20px;
       font-weight: 700;
       margin: 0;
       padding: 0;
     }
-  }
-}
 
 
 
