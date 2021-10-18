@@ -16,6 +16,10 @@ body {
   padding: 15px;
 }
 
+.headshot {
+  border-radius: 75p;
+}
+
 .center-content {
   display: flex;
   justify-content: center;
@@ -52,7 +56,7 @@ body {
   border-radius: 16px;
   padding: 4px;
   
-  img {
+  .tile-image {
     border-radius: 16px;
   }
   
