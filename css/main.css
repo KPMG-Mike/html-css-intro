@@ -23,6 +23,13 @@ body {
   flex-direction: column;
 }
 
+.shaded {
+  background-color: lightgray;
+}
+
+
+
+
 .container2 {
   display: flex;
   background-color: lightgray;
