@@ -8,12 +8,12 @@ body {
 
 .left {
   flex: 1;
-  margin: 10px;
+  padding: 15px;
 }
 
 .right {
-  flex: 2;
-  margin: 10px;
+  flex: 1;
+  padding: 15px;
 }
 
 .center-content {
