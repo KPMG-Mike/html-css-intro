@@ -36,8 +36,12 @@ body {
 }
 
 ol {
-  font-size: 30px;
+  font-size: 24px;
   font-weight: bold;
+}
+
+ol li {
+  padding: 24px;
 }
 
 ol li h2 {
