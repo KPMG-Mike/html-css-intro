@@ -37,14 +37,7 @@ body {
 .tiles-wrapper {
   display: flex;
   flex-direction: row;
-}
-
-.tile {
-  flex: 33%;
-  background-color: blue;
-  margin: 10px;
-  border-radius: 15px;
-  height: 300px;
+  justify-content: space-evenly;
 }
 
 
