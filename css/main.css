@@ -82,8 +82,9 @@ body {
   }
   
   i {
-      font-size: 24px;
-    }
+    font-size: 24px;
+    color: white;
+  }
   
   .image-card-label {
     position: absolute;
