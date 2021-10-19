@@ -13,6 +13,10 @@ const kidQuotes = [
   { text: "It won't let me save!", author: "anonymous"}
 ];
 
+function getRndInt(min, max) {
+  return Math.floor(Math.random() * (max - min) ) + min;
+}
+
 function getNextQuote(quotesSrc) {
   const quote = quotesSrc[getRndInt(1, quotesSrc.length + 1) - 1];
   const quoteElem = document.getElementById('quote');
