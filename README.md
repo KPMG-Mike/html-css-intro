@@ -1,4 +1,15 @@
-# HTML-and-CSS-Intro!
+HTML & CSS Intro Workshop
+
+# Using This Repository
+
+
+
+## Branches
+
+- step-01-initialize
+- step-02-html
+- step-03-css
+
 
 
 # References
