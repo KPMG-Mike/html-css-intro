@@ -1,0 +1,14 @@
+.image-card .image-card-content {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 30px;
+    width: 180px;
+    margin-left: auto; 
+    margin-right: auto; 
+    background-color: #fff;
+    padding: 16px 32px;
+    border-radius: 16px;
+    opacity: 0.8;
+    text-align: center;
+}
