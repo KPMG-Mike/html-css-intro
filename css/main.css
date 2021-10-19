@@ -1,5 +1,6 @@
 body {
-  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0 0 32px 0;
 }
 
 .container {
@@ -53,20 +54,12 @@ ol li p {
   font-weight: normal;
 }
 
-
-
-
 .tiles-wrapper {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
-
-
-
-
-
 
 .image-card {
   position: relative;
@@ -78,52 +71,49 @@ ol li p {
   padding: 4px;
 }
   
-  .tile-image {
-    border-radius: 16px;
-  }
+.image-card .tile-image {
+  border-radius: 16px;
+}
   
-  .image-card-icon {
-    position: absolute;
-    bottom: 0;
-    right: 32px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 70px;
-    height: 70px;
-    border: 4px solid gray;
-    border-radius: 40px;
-    color: gray;
-    background-color: gray;
-  }
+.image-card .image-card-icon {
+  position: absolute;
+  bottom: 0;
+  right: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 70px;
+  height: 70px;
+  border: 4px solid white;
+  border-radius: 40px;
+  color: gray;
+  background-color: gray;
+}
   
-  i {
-    font-size: 24px;
-    color: white;
-  }
+.image-card .image-card-icon i {
+  font-size: 24px;
+  color: white;
+}
   
-  .image-card-label {
-    position: absolute;
-    left: 4px;
-    bottom: 86px;
-    background-color: gray;
-    margin-right: 32px;
-    padding: 16px 32px;
-    border-top-right-radius: 16px;
-    border-bottom-right-radius: 16px;
-    opacity: 0.8;
-  }
+.image-card .image-card-label {
+  position: absolute;
+  left: 4px;
+  bottom: 86px;
+  background-color: white;
+  margin-right: 32px;
+  padding: 16px 32px;
+  border-top-right-radius: 16px;
+  border-bottom-right-radius: 16px;
+  opacity: 0.8;
+}
   
-  .image-card-label-title {
-      color: black;
-      font-size: 20px;
-      font-weight: 700;
-      margin: 0;
-      padding: 0;
-    }
-
-
-
+.image-card .image-card-label .image-card-label-title {
+  color: black;
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+}
 
 footer {
   position: fixed;
