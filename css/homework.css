@@ -12,3 +12,43 @@
     opacity: 0.8;
     text-align: center;
 }
+
+.image-card .image-card-content p {
+  text-align: center;
+  font-weight: 700;
+  font-size: 30px;
+  color: #443fbe;
+}
+
+.image-card .image-card-content p:before,
+.image-card .image-card-content p:after {
+  content: '"';
+}
+
+/* Button styling from modeled from https://www.bestcssbuttongenerator.com/#/27 */
+.image-card .image-card-content button {
+    display: block;
+    margin: 0 auto;
+	box-shadow: inset 0px 1px 0px 0px #a4e271;
+	background: linear-gradient(to bottom, #89c403 5%, #77a809 100%);
+	background-color: #89c403;
+	border-radius: 33px;
+	border: 1px solid #74b807;
+	cursor: pointer;
+	color: #ffffff;
+	font-size: 16px;
+	font-weight: bold;
+	padding: 12px 32px;
+	text-decoration: none;
+	text-shadow: 0px 1px 0px #528009;
+}
+
+.image-card .image-card-content button:hover {
+  background: linear-gradient(to bottom, #77a809 5%, #89c403 100%);
+  background-color: #77a809;
+}
+  
+ .image-card .image-card-content button:active {
+   position: relative;
+   top: 1px;
+}
