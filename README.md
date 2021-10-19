@@ -20,6 +20,23 @@ This repository is a workshop companion and can be used as a template to work th
 
 > This branch reflects the workshop content in a completed state. 
 
+## Prerequisites
+
+To participate in the workshop, we recommend signing up for a free GitHub account if you don't already have one. With the GitHub account, you will be able to copy this repository and save your work as we walk through workshop topics. In addition, you can use your GitHub credentials to sign into cloud sandbox enviroments such as CloudSandbox, CodePen.io, StackBlitz, and Replit where you can see live previews of code you are editing without the need for complicated development environment configuration. We will be focusing on GitHub and CloudSandbox for this workshop but see the Cloud IDEs section in the References below for other excellent cloud sandbox environments that are available.
+
+1) GitHub: https://github.com
+
+- Signup: https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home
+
+- Sign In: https://github.com/login
+
+2) CodeSandbox: https://codesandbox.io
+
+> You can create unique credentials for CodeSandbox but there is also an option to log in with your GitHub credentials. You can sign in with a CodeSandbox account or use the 'Sign in with GitHub' button on the signin screen to use your GitHub credentials.
+
+- Sign In: https://codesandbox.io/signin
+
+
 ## Cloning the Repository
 
 1) Sign in to your GitHub account (https://github.com/login).
@@ -93,6 +110,21 @@ Grid
 Smashing Magazine Article
 
 https://www.smashingmagazine.com/guides/css-layout/
+
+## Cloud Sandboxes/IDEs
+
+### CodePen.io: https://codepen.io
+
+CodePen.io is an excellent sandbox option for exploring HTML/CSS/JavaScript capabilities. Signing in is similar to CodeSandbox where you can create individual credentials or sign in using your GitHub credentials. A CodePen.io sandbox gives you a single HTML, CSS, and JavaScript code block to build with. You have the ability to configure your sandbox and include additional libraries to enhance your exploration.
+
+### StackBlitz: https://stackblitz.com
+
+StackBlitz has a similar feel to CodeSandbox and has similar sign in options. For purposes of this workshop, we felt CodeSandbox had a couple more flexible options such as support for uploading images in the free tier. StackBlitz has a wide variety of pre-configured sandbox templates that let quickly spin up projects such as Angular, React, VueJs, and many others.
+
+### Replit: https://replit.com
+
+Replit follows the previous sandboxes as it has similar sign in options. In addition to providing HTML/CSS/JavaScript project templates, it also provides templates for other languates such as Python, VB, C++, and many others.
+
 
 ## Extra Reading
 
