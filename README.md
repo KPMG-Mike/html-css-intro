@@ -6,7 +6,7 @@ This repository is a workshop companion and can be used as a template to work th
 
 - step-01-initialize
 
-> This branch includes an index.html file with a base HTML template (html, head, title, body). This stage introduces the basic structure of an HTML page and leads into common HTML elements.
+> This branch includes an index.html file with a base HTML template (html, head, title, body). This step introduces the basic structure of an HTML page and leads into common HTML elements.
 
 - step-02-html
 
@@ -14,7 +14,7 @@ This repository is a workshop companion and can be used as a template to work th
 
 - step-03-css
 
-> This branch includes CSS files to introduce approaches for page layout and HTML element styling.
+> This branch includes CSS files to introduce approaches for page layout and styling.
 
 - final-solution
 
@@ -32,7 +32,7 @@ To participate in the workshop, we recommend signing up for a free GitHub accoun
 
 2) CodeSandbox: https://codesandbox.io
 
-> You can create unique credentials for CodeSandbox but there is also an option to log in with your GitHub credentials. You can sign in with a CodeSandbox account or use the 'Sign in with GitHub' button on the signin screen to use your GitHub credentials.
+> You can create unique credentials for CodeSandbox but there is also an option to log in with your GitHub credentials. You can sign in with a CodeSandbox account or use the 'Sign in with GitHub' button on the sign in screen to use your GitHub credentials.
 
 - Sign In: https://codesandbox.io/signin
 
@@ -45,7 +45,7 @@ To participate in the workshop, we recommend signing up for a free GitHub accoun
 
 > Clicking the 'Use this template' button is similar to forking the repository except that you don't get the previous commit history from the source repository like you would when forking the repository.
 
-4) Once a copy of this repository is in your GitHub space, you can clone your copy to your local development environment or fork it in a cloud IDE such as CloudSandbox. For the purposes of this workshop, we will be using CodeSandbox.
+4) Once a copy of this repository is in your GitHub space, you can clone your copy to your local development environment or fork it in a cloud IDE such as CloudSandbox.
 
 
 ## CodeSandbox
@@ -76,7 +76,6 @@ You can also fork a GitHub repository from the Repositories screen on the CodeSa
 6) Link the sandbox to your GitHub repository using the GitHub panel in the left-most side panel to create a pull request and merge updates made from CodeSandbox back to your GitHub repository.
 
 
-
 # References
 
 ## W3Schools.com
@@ -85,15 +84,18 @@ You can also fork a GitHub repository from the Repositories screen on the CodeSa
 -	HTML Reference: https://www.w3schools.com/tags/default.asp
 -	CSS Reference: https://www.w3schools.com/cssref/default.asp
 
+
 ## MDM Web Docs
 
 -	https://developer.mozilla.org/en-US/
 -	HTML Reference: https://developer.mozilla.org/en-US/docs/Web/HTML
 -	CSS Reference: https://developer.mozilla.org/en-US/docs/Web/CSS
 
+
 ## Learn CSS
 
 A helpful CSS course/reference: https://web.dev/learn/css/
+
 
 ## CSS Layouts
 
@@ -111,15 +113,18 @@ Smashing Magazine Article
 
 https://www.smashingmagazine.com/guides/css-layout/
 
+
 ## Cloud Sandboxes/IDEs
 
 ### CodePen.io: https://codepen.io
 
 CodePen.io is an excellent sandbox option for exploring HTML/CSS/JavaScript capabilities. Signing in is similar to CodeSandbox where you can create individual credentials or sign in using your GitHub credentials. A CodePen.io sandbox gives you a single HTML, CSS, and JavaScript code block to build with. You have the ability to configure your sandbox and include additional libraries to enhance your exploration.
 
+
 ### StackBlitz: https://stackblitz.com
 
 StackBlitz has a similar feel to CodeSandbox and has similar sign in options. For purposes of this workshop, we felt CodeSandbox had a couple more flexible options such as support for uploading images in the free tier. StackBlitz has a wide variety of pre-configured sandbox templates that let quickly spin up projects such as Angular, React, VueJs, and many others.
+
 
 ### Replit: https://replit.com
 
@@ -132,7 +137,7 @@ Replit follows the previous sandboxes as it has similar sign in options. In addi
 - Smashing Magazine (Design and web development articles/resources): https://www.smashingmagazine.com/
 
 
-# Content Generators
+## Content Generators
 
 - Lorem Ipsum: https://www.lipsum.com/
 - Lorem Picsum: https://picsum.photos/
