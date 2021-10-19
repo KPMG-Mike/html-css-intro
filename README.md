@@ -1,10 +1,6 @@
-HTML & CSS Intro
+# html-css-intro
 
-
-
-# Using This Repository
-
-This repository is a workshop companion and can be used as a template to work through topics as they are covered. 
+This repository is a workshop companion and can be used as a template to work through topics as they are covered. The 'main' branch is intentionally empty with the exception of README.md. Progress through workshop content is reflected in branches with a completed version reflected in the 'final-solution' branch.
 
 ## Branches
 
@@ -26,8 +22,8 @@ This repository is a workshop companion and can be used as a template to work th
 
 ## Cloning the Repository
 
-1) Sign in to your GitHub account
-2) If not already here, navigate to https://github.com/KPMG-Mike/html-css-intro
+1) Sign in to your GitHub account (https://github.com/login).
+2) Navigate to https://github.com/KPMG-Mike/html-css-intro.
 3) Click the green 'Use this template' button to copy the repository to your GitHub account. 
 
 > Clicking the 'Use this template' button is similar to forking the repository except that you don't get the previous commit history from the source repository like you would when forking the repository.
