@@ -36,6 +36,10 @@ body {
   background-color: lightgray;
 }
 
+.center-text {
+  text-align: center;
+}
+
 ol {
   font-size: 24px;
   font-weight: bold;
