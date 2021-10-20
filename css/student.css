@@ -14,25 +14,9 @@ button {
   cursor: pointer;
 }
 
-/*a {
-  border-radius: 25px;
-  background-color: darkblue;
-  color: white;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-left: 15px;
-  padding-right: 15px;
-  text-decoration: none;
-}
-*/
-
 .circle-icon {
-    background: #ffc0c0;
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    text-align: center;
-    line-height: 100px;
-    vertical-align: middle;
-    padding: 30px;
+  border-radius: 60px;
+  padding: 8px;
+  background-color: blue;
+  color: white;
 }
