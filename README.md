@@ -2,23 +2,19 @@
 
 This repository is a workshop companion and can be used as a template to work through topics as they are covered. The 'main' branch is intentionally empty with the exception of README.md. Progress through workshop content is reflected in branches with a completed version reflected in the 'final-solution' branch.
 
-## Branches
+## Topics Covered
+- HTML
 
-- step-01-initialize
+> The HTML elements that will be covered in the course are html, head, title, body, section, h1, p, img, div, footer, a, i, ol, li, button
 
-> This branch includes an index.html file with a base HTML template (html, head, title, body). This step introduces the basic structure of an HTML page and leads into common HTML elements.
+- CSS
 
-- step-02-html
+> The CSS properties that will be covered are color, background-color, font-weight, font-size, border-radius, etc.
 
-> This branch introduces common HTML elements (e.g. h1, p, img, div, span, header, footer, ul, ol, etc.) populated in index.html.
+- JavaScript (potentially)
 
-- step-03-css
+> Introduce JavaScript and create a simple random quote generator. Two functions and a local array of quotes.
 
-> This branch includes CSS files to introduce approaches for page layout and styling.
-
-- final-solution
-
-> This branch reflects the workshop content in a completed state. 
 
 ## Prerequisites
 
@@ -46,6 +42,25 @@ To participate in the workshop, we recommend signing up for a free GitHub accoun
 > Clicking the 'Use this template' button is similar to forking the repository except that you don't get the previous commit history from the source repository like you would when forking the repository.
 
 4) Once a copy of this repository is in your GitHub space, you can clone your copy to your local development environment or fork it in a cloud IDE such as CloudSandbox.
+
+
+## Branches
+
+- step-01-initialize
+
+> This branch includes an index.html file with a base HTML template (html, head, title, body). This step introduces the basic structure of an HTML page and leads into common HTML elements.
+
+- step-02-html
+
+> This branch introduces common HTML elements (e.g. h1, p, img, div, footer, ul, ol, etc.) populated in index.html.
+
+- step-03-css
+
+> This branch includes CSS files to introduce approaches for page layout and styling.
+
+- final-solution
+
+> This branch reflects the workshop content in a completed state. 
 
 
 ## CodeSandbox
