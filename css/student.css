@@ -14,7 +14,7 @@ button {
   cursor: pointer;
 }
 
-a {
+/*a {
   border-radius: 25px;
   background-color: darkblue;
   color: white;
@@ -23,4 +23,16 @@ a {
   padding-left: 15px;
   padding-right: 15px;
   text-decoration: none;
+}
+*/
+
+.circle-icon {
+    background: #ffc0c0;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+    padding: 30px;
 }
