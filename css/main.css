@@ -46,6 +46,11 @@ body {
   text-align: center;
 }
 
+i .circle-icon {
+  border-radius: 60px;
+  padding: 8px 9px;
+}
+
 ol {
   font-size: 24px;
   font-weight: bold;
