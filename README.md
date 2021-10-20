@@ -6,6 +6,7 @@ This repository is a workshop companion and can be used as a template to work th
 - HTML
 
 > The HTML elements that will be covered in the course are html, head, title, body, section, h1, p, img, div, footer, a, i, ol, li, button
+    > test
 
 - CSS
 
