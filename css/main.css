@@ -46,7 +46,7 @@ body {
   text-align: center;
 }
 
-i .circle-icon {
+.circle-icon {
   border-radius: 60px;
   padding: 8px 9px;
 }
