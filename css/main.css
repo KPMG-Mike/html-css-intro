@@ -9,12 +9,18 @@ body {
 
 .left {
   flex: 1;
-  padding: 15px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 32px;
+  padding-right: 32px;
 }
 
 .right {
   flex: 1;
-  padding: 15px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 32px;
+  padding-right: 32px;
 }
 
 .headshot {
