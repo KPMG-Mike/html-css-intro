@@ -3,18 +3,15 @@
 This repository is a workshop companion and can be used as a template to work through topics as they are covered. The 'main' branch is intentionally empty with the exception of README.md. Progress through workshop content is reflected in branches with a completed version reflected in the 'final-solution' branch.
 
 ## Topics Covered
-- HTML
+1) HTML
+    - The base elements of an HTML page **html**, **head**, **title**, **body**
+    - More common HTML elements **section**, **h1**, **p**, **img**, **div**, **footer**, **a**, **i**, **ol**, **li**, and **button**
 
-> The HTML elements that will be covered in the course are html, head, title, body, section, h1, p, img, div, footer, a, i, ol, li, button
-    > test
+2) CSS
+    - Some basic CSS properties that will be covered are **color**, **background-color**, **font-weight**, **font-size**, **border-radius**, etc.
 
-- CSS
-
-> The CSS properties that will be covered are color, background-color, font-weight, font-size, border-radius, etc.
-
-- JavaScript (potentially)
-
-> Introduce JavaScript and create a simple random quote generator. Two functions and a local array of quotes.
+3) JavaScript (potentially)
+    - Introduce JavaScript and create a simple random quote generator. Two functions and a local array of quotes.
 
 
 ## Prerequisites
