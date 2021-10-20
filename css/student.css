@@ -15,8 +15,6 @@ button {
 }
 
 .circle-icon {
-  border-radius: 60px;
-  padding: 8px;
   background-color: blue;
   color: white;
 }
