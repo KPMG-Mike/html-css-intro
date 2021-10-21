@@ -3,12 +3,15 @@
 This repository is a workshop companion and can be used as a template to work through topics as they are covered. The 'main' branch is intentionally empty with the exception of README.md. Progress through workshop content is reflected in branches with a completed version reflected in the 'final-solution' branch.
 
 ## Topics Covered
+
+We will introduce a small set of commonly used HTML elements and CSS styling properties in this workshop. The following sections list the elements and properties you will hear about. See the References section below for more information on HTML and CSS.
+
 1) HTML
-    - The base elements of an HTML page **html**, **head**, **title**, **body**
-    - More common HTML elements **section**, **h1**, **p**, **img**, **div**, **footer**, **a**, **i**, **ol**, **li**, and **button**
+    - The base elements of an HTML document: **html**, **head**, **title**, **body**
+    - Common HTML document content elements: **section**, **div**, **footer**, **h1**, **p**, **img**, **a**, **i**, **ol**, **li**, and **button**
 
 2) CSS
-    - Some basic CSS properties that will be covered are **color**, **background-color**, **font-weight**, **font-size**, **border-radius**, etc.
+    - Common CSS properties used to style an HTML document: **color**, **background-color**, **font-family**, **font-size**, **font-weight**, **margin**, **padding**, **border**, **border-radius**, etc.
 
 3) JavaScript (potentially)
     - Introduce JavaScript and create a simple random quote generator. Two functions and a local array of quotes.
@@ -60,6 +63,10 @@ To participate in the workshop, we recommend signing up for a free GitHub accoun
 
 > This branch reflects the workshop content in a completed state. 
 
+- homework
+
+> This branch reflects the homework challenge in a completed state.
+
 
 ## CodeSandbox
 
@@ -103,11 +110,25 @@ You can also fork a GitHub repository from the Repositories screen on the CodeSa
 -	https://developer.mozilla.org/en-US/
 -	HTML Reference: https://developer.mozilla.org/en-US/docs/Web/HTML
 -	CSS Reference: https://developer.mozilla.org/en-US/docs/Web/CSS
+-	Comprehensive HTML element list: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+-	CSS color values: https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
+
+Common CSS property references:
+
+-	display: https://developer.mozilla.org/en-US/docs/Web/CSS/display
+-	position: https://developer.mozilla.org/en-US/docs/Web/CSS/position
+-	margin: https://developer.mozilla.org/en-US/docs/Web/CSS/margin
+-	border: https://developer.mozilla.org/en-US/docs/Web/CSS/border
+-	padding: https://developer.mozilla.org/en-US/docs/Web/CSS/padding
+-	overflow: https://developer.mozilla.org/en-US/docs/Web/CSS/overflow
+-	fonts: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts
 
 
 ## Learn CSS
 
 A helpful CSS course/reference: https://web.dev/learn/css/
+
+- Good illustration of the CSS box model (related to margin, border, and padding): https://web.dev/learn/css/box-model/#the-areas-of-the-box-model
 
 
 ## CSS Layouts
@@ -148,12 +169,15 @@ Replit follows the previous sandboxes as it has similar sign in options. In addi
 
 - CSS-Tricks: https://css-tricks.com/
 - Smashing Magazine (Design and web development articles/resources): https://www.smashingmagazine.com/
+- Modern CSS Solutions: https://moderncss.dev/
 
 
 ## Content Generators
 
+- Font Awesome: https://fontawesome.com/
 - Lorem Ipsum: https://www.lipsum.com/
 - Lorem Picsum: https://picsum.photos/
-- Color wheel: https://www.schemecolor.com/
+- Color pickers: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool | https://www.schemecolor.com/
 - HTML element generator: https://webcode.tools/generators/html
 - CSS generator: https://webcode.tools/generators/css
+- CSS animations on demand: https://animista.net/
