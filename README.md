@@ -174,9 +174,9 @@ Replit follows the previous sandboxes as it has similar sign in options. In addi
 
 ## Content Generators
 
-- Font Awesome: https://fontawesome.com/
-- Lorem Ipsum: https://www.lipsum.com/
-- Lorem Picsum: https://picsum.photos/
+- Font Awesome (icons): https://fontawesome.com/
+- Lorem Ipsum (placeholder text): https://www.lipsum.com/
+- Lorem Picsum (placeholder images): https://picsum.photos/
 - Color pickers: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool | https://www.schemecolor.com/
 - HTML element generator: https://webcode.tools/generators/html
 - CSS generator: https://webcode.tools/generators/css
