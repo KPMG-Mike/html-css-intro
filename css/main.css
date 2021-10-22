@@ -89,6 +89,8 @@ ol li p {
   
 .image-card .tile-image {
   border-radius: 16px;
+  width: 300px;
+  height: 435px;
 }
   
 .image-card .image-card-icon {
