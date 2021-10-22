@@ -1,20 +1,14 @@
 h1 {
-  color: blue;
+  font-size: 48px;
 }
 
-button {
-  border: none;
-  border-radius: 25px;
-  background-color: darkblue;
-  color: white;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-left: 15px;
-  padding-right: 15px;
-  cursor: pointer;
+.headshot {
+  border-radius: 75px;
 }
 
 .circle-icon {
   background-color: blue;
   color: white;
+  border-radius: 50%;
+  padding: 13px;
 }
