@@ -9,4 +9,6 @@ h1 {
 .circle-icon {
   background-color: blue;
   color: white;
+  border-radius: 50%;
+  padding: 13px;
 }
